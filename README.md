@@ -1,1 +1,2 @@
-# intro-dotNet
+# intro-dotnet
+Introduction to .NET
